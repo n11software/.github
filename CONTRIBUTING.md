@@ -1,7 +1,7 @@
 # Contributing
-Thank you for taking the time to help us develop Hydra!
+Thank you for taking the time to help us develop N11 and its softwares!
 
-This document has set guidelines on contributing to Hydra (Hydra/Inferno/BOB). To submit or propose a change to this document, please open a Pull Request.
+This document has set guidelines on contributing to our works (Hydra/neon/kaos). To submit or propose a change to this document, please open a Pull Request.
 
 ## Table of Contents
 [Styleguide](#Styleguide)
@@ -11,7 +11,7 @@ This document has set guidelines on contributing to Hydra (Hydra/Inferno/BOB). T
 To keep our code organized, we have a set of rules on how we would like certain things to be formatted (refer to Documentation/Codingstyle.md).
 
 ## Git Commit Messages
-When commiting to Hydra, your commits must have good clarity in what they implement/fix/enhance. All commits should start with what section of Hydra you have changed.
+When commiting to any of our repositories, your commits must have good clarity in what they implement/fix/enhance. All commits should start with what section of Hydra you have changed.
 <br> 
 Ex: `BOB: Added ....` or `LibC: Fixed ...`
 <br>
