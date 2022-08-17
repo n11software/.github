@@ -1,4 +1,3 @@
-(draft)
 # Code of Conduct
 As members of the N11 community, we'd like to make our community a safe, healthy, and welcoming one to join, and we'd like to keep it that way while keeping it as carefree as possible.
 ## Standards
